@@ -1,4 +1,4 @@
-# VR:n junat - End-to-end dataprojekti mitaliarkkitehtuuria noudattaen
+# VR:n junat - End-to-end dataprojekti mitaliarkkitehtuuria noudattaen - KESKEN
 - Databricks ilmainen versio
 - Notebookit Pyspark + Python + SQL
 - Tiedonhaku Digitrafficin rajapinnasta ns. manuaalisena notebook-ajona Databricks free editionin rajoitteiden vuoksi
