@@ -65,5 +65,6 @@
 ---
 
 ### Power BI raportin sivu
+Hiukan hitautta nähtävissä - dataa on > 50 M riviä. Vaatii kultatasolle aggregointitaulun raportin nopeuttamiseksi.
 
-![](Readme-kuvat/Junat.png)
+![](Junat-raportti.gif)
