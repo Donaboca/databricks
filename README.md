@@ -67,6 +67,6 @@ Kultatasoa on vielä tarkoitus kehittää ja tuoda sinne muitakin koontitauluja.
 ---
 
 ### Power BI raportin sivu
-Hiukan hitautta nähtävissä - dataa on > 50 M riviä. Vaatii kultatasolle aggregointitaulun raportin nopeuttamiseksi.
+Hiukan hitautta nähtävissä - dataa on > 50 M riviä. Tähän tulossa rinnalle raportin uusi versio, jossa nähdään aggregointitaulun vaikutus raportin käyttäytymiseen.
 
 ![](Junat-raportti.gif)
