@@ -25,8 +25,9 @@
   1. Data viedään raakamuodossa pronssitason deltatauluun.
   2. Data viedään hopeatasolle hopeatasolle määritellyssä muodossa.
   3. Dataputken ensiajolla luodaan fact- ja dim-taulut. Seuraavilla ajoilla dim-taulut muodostetaan uudestaan rivimäärän vähäisyyden vuoksi, mutta fact-tauluun lisätään uudet rivit.
+  4. Dataputken viimeinen vaihe luo / päivittää kultatasolla aggregointitaulun, jossa on koottuna junien määrät, aikataulussa ja myöhässä olleiden junien määrät sekä niiden kategoriat päivätasolla. 
  
-  Kultatasoa ei ole vielä tehty. Nykyinen data on mallinnettu ja laadullisesti sopiva raportointiin -> Siirryn tässä kohtaan tekemään raportointia.
+Kultatasoa on vielä tarkoitus kehittää ja tuoda sinne muitakin koontitauluja.
 ---
 
 ### Mitaliarkkitehtuuri (kultatasoa ei ole vielä toteutettu)
