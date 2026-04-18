@@ -31,7 +31,7 @@ Kultatasoa on vielä tarkoitus kehittää ja tuoda sinne muitakin koontitauluja.
 
 ---
 
-### Mitaliarkkitehtuuri (kultatasoa ei ole vielä toteutettu)
+### Mitaliarkkitehtuuri
 
 ![](Readme-kuvat/Mitaliarkkitehtuuri.png)
 ---
